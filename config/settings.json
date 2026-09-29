@@ -1,0 +1,1 @@
+{"daily_loss_cap":5.0,"edge_bar_cents":8,"max_cost_per_trade":2.0,"min_minutes_left":3,"paper_log":"paper/paper_log.jsonl","real":{"enabled":false,"max_open_positions":1,"per_bet_cap":1.0,"per_day_cap":5.0},"series":["KXETH15M","KXBTC15M"],"vol_annual":{"BTC":0.55,"ETH":0.6}}

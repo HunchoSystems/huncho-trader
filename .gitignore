@@ -1,0 +1,9 @@
+*.b64
+*.pem
+*.key
+.env
+config/settings.local.json
+paper/
+__pycache__/
+*.pyc
+.DS_Store
